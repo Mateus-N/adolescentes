@@ -9,8 +9,8 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["./ProjetoAdolescentes.Api.csproj", "ProjetoAdolescentes.Api/"]
-RUN dotnet restore "./ProjetoAdolescentes.Api.csproj"
+COPY ["ProjetoAdolescentes.Api/ProjetoAdolescentes.Api.csproj", "ProjetoAdolescentes.Api/"]
+RUN dotnet restore "./ProjetoAdolescentes.Api/ProjetoAdolescentes.Api.csproj"
 COPY . .
 WORKDIR "/src/ProjetoAdolescentes.Api"
 RUN dotnet build "./ProjetoAdolescentes.Api.csproj" -c $BUILD_CONFIGURATION -o /app/build
