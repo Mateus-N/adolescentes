@@ -1,0 +1,15 @@
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\bin\Debug\net8.0\ProjetoAdolescentes.Application.deps.json
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\bin\Debug\net8.0\ProjetoAdolescentes.Application.dll
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\bin\Debug\net8.0\ProjetoAdolescentes.Application.pdb
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\bin\Debug\net8.0\ProjetoAdolescentes.Domain.dll
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\bin\Debug\net8.0\ProjetoAdolescentes.Domain.pdb
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\obj\Debug\net8.0\ProjetoAdolescentes.Application.csproj.AssemblyReference.cache
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\obj\Debug\net8.0\ProjetoAdolescentes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\obj\Debug\net8.0\ProjetoAdolescentes.Application.AssemblyInfoInputs.cache
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\obj\Debug\net8.0\ProjetoAdolescentes.Application.AssemblyInfo.cs
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\obj\Debug\net8.0\ProjetoAdolescentes.Application.csproj.CoreCompileInputs.cache
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\obj\Debug\net8.0\ProjetoA.9E0567ED.Up2Date
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\obj\Debug\net8.0\ProjetoAdolescentes.Application.dll
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\obj\Debug\net8.0\refint\ProjetoAdolescentes.Application.dll
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\obj\Debug\net8.0\ProjetoAdolescentes.Application.pdb
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Application\obj\Debug\net8.0\ref\ProjetoAdolescentes.Application.dll

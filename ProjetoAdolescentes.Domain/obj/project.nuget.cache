@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "upfjR5VDN8c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\souza\\Documents\\Repos\\ProjetoAdolescentes\\ProjetoAdolescentes.Domain\\ProjetoAdolescentes.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\souza\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\souza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

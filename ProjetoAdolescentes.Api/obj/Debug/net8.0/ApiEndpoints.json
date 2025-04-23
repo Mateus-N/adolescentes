@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ProjetoAdolescentes.Api.Controllers.UsuarioController",
+    "Method": "CriarUsuario",
+    "RelativePath": "Adolescentes/api/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ProjetoAdolescentes.Application.DTOs.Usuario.CriarUsuarioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

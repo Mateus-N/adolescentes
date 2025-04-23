@@ -1,0 +1,12 @@
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\bin\Debug\net8.0\ProjetoAdolescentes.Domain.deps.json
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\bin\Debug\net8.0\ProjetoAdolescentes.Domain.dll
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\bin\Debug\net8.0\ProjetoAdolescentes.Domain.pdb
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\obj\Debug\net8.0\ProjetoAdolescentes.Domain.csproj.AssemblyReference.cache
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\obj\Debug\net8.0\ProjetoAdolescentes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\obj\Debug\net8.0\ProjetoAdolescentes.Domain.AssemblyInfoInputs.cache
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\obj\Debug\net8.0\ProjetoAdolescentes.Domain.AssemblyInfo.cs
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\obj\Debug\net8.0\ProjetoAdolescentes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\obj\Debug\net8.0\ProjetoAdolescentes.Domain.dll
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\obj\Debug\net8.0\refint\ProjetoAdolescentes.Domain.dll
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\obj\Debug\net8.0\ProjetoAdolescentes.Domain.pdb
+C:\Users\souza\Documents\Repos\ProjetoAdolescentes\ProjetoAdolescentes.Domain\obj\Debug\net8.0\ref\ProjetoAdolescentes.Domain.dll
